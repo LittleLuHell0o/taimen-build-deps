@@ -1,0 +1,14 @@
+/home/luge/wahoo/twrp/src/build/blueprint/microfactory/microfactory.bash: line 62: cd: /home/luge/wahoo/twrp/src/prebuilts/go/linux-x86/: No such file or directory
+/home/luge/wahoo/twrp/src/build/blueprint/microfactory/microfactory.bash: line 62: /home/luge/wahoo/twrp/src/prebuilts/go/linux-x86//bin/go: No such file or directory
+Device taimen not found. Attempting to retrieve device repository from TeamWin Github (http://github.com/TeamWin).
+Failed to search GitHub
+/home/luge/wahoo/twrp/src/build/blueprint/microfactory/microfactory.bash: line 62: cd: /home/luge/wahoo/twrp/src/prebuilts/go/linux-x86/: No such file or directory
+/home/luge/wahoo/twrp/src/build/blueprint/microfactory/microfactory.bash: line 62: /home/luge/wahoo/twrp/src/prebuilts/go/linux-x86//bin/go: No such file or directory
+cat: /home/luge/wahoo/twrp/src/build/envsetup.sh: No such file or directory
+cat: /home/luge/wahoo/twrp/src/build/envsetup.sh: No such file or directory
+/home/luge/wahoo/twrp/src/build/blueprint/microfactory/microfactory.bash: line 62: cd: /home/luge/wahoo/twrp/src/prebuilts/go/linux-x86/: No such file or directory
+/home/luge/wahoo/twrp/src/build/blueprint/microfactory/microfactory.bash: line 62: /home/luge/wahoo/twrp/src/prebuilts/go/linux-x86//bin/go: No such file or directory
+
+** Don't have a product spec for: 'lineage_taimen'
+** Do you have the right repo manifest?
+

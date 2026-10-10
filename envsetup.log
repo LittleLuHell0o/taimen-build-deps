@@ -1,0 +1,5 @@
+including device/google/taimen/vendorsetup.sh
+/home/luge/wahoo/twrp/src/device/google/taimen/vendorsetup.sh:2: add_lunch_combo is obsolete. Use COMMON_LUNCH_CHOICES in your AndroidProducts.mk instead.
+/home/luge/wahoo/twrp/src/device/google/taimen/vendorsetup.sh:3: add_lunch_combo is obsolete. Use COMMON_LUNCH_CHOICES in your AndroidProducts.mk instead.
+/home/luge/wahoo/twrp/src/device/google/taimen/vendorsetup.sh:4: add_lunch_combo is obsolete. Use COMMON_LUNCH_CHOICES in your AndroidProducts.mk instead.
+/home/luge/wahoo/twrp/src/device/google/taimen/vendorsetup.sh:5: add_lunch_combo is obsolete. Use COMMON_LUNCH_CHOICES in your AndroidProducts.mk instead.
